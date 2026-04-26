@@ -171,7 +171,7 @@ docker compose ps
 ```
 URL:      https://127.0.0.1:8443
 Username: admin
-Password: SecretPassword
+Password: <yourpassword>
 ```
 
 ### Step 6 — Install Wazuh Agent on Endpoints
